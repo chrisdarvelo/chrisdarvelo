@@ -1,16 +1,17 @@
-## Hi there 👋
+ # Hey there I'm Chris 👋
 
-<!--
-**chrisdarvelo/chrisdarvelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  Founder and builder of  **[Ully AI](https://ullycoffee.com)** — an AI tool for coffee professionals , powered by React Native.
 
-Here are some ideas to get you started:
+  ## Currently working on:
+  -  **Ully AI** — mobile app for iOS and Android
+  -  Specialty coffee × AI tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## Tech
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+  ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+  ![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
+  ## support us: 
+  - 🌐 [ullycoffee.com](https://ullycoffee.com)
+  - 📩 support@ullycoffee.com
