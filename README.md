@@ -1,6 +1,6 @@
  # Hey there I'm Chris 👋
 
-  Founder and builder of  **[Ully AI](https://ullycoffee.com)** — an AI tool for coffee professionals , powered by React Native.
+  Founder and builder of  **[Ully-coffee](https://ullycoffee.com)** — an AI tool for coffee professionals , powered by React Native.
 
   ## Currently working on:
   -  **Ully AI** — mobile app for iOS and Android
