@@ -24,7 +24,7 @@
 
 ## what i'm building
 
-### [Ully AI](https://github.com/chrisdarvelo/Ully-Coffee) — mobile app
+### [Ully AI](https://github.com/chrisdarvelo/Ully.app) — mobile app
 > AI coffee companion for baristas and enthusiasts.
 
 Dial-in your espresso, troubleshoot equipment, build your recipe library, and get weather-aware drink recommendations — powered by Claude Sonnet. Built with Expo + React Native + Firebase.
@@ -33,7 +33,7 @@ Dial-in your espresso, troubleshoot equipment, build your recipe library, and ge
 
 ---
 
-### [Ully Business Platform](https://github.com/chrisdarvelo/ully-web) — web
+### [Ully Business Platform](https://github.com/chrisdarvelo/ully.web) — web
 > Operations platform for cafes and multi-location operators.
 
 Team management, equipment + service history, weekly scheduling, inventory with par-level alerts, revenue tracking, and an AI assistant with full business context. Live at [ullyapp.com](https://ullyapp.com).
@@ -60,6 +60,6 @@ Infra         Railway · Firebase · EAS Build · EAS Submit
 | | |
 |---|---|
 | Web platform | [ullyapp.com](https://ullyapp.com) |
-| Mobile repo | [github.com/chrisdarvelo/Ully-Coffee](https://github.com/chrisdarvelo/Ully-Coffee) |
-| Web repo | [github.com/chrisdarvelo/ully-web](https://github.com/chrisdarvelo/ully-web) |
+| Mobile repo | [github.com/chrisdarvelo/Ully.app](https://github.com/chrisdarvelo/Ully.app) |
+| Web repo | [github.com/chrisdarvelo/ully.web](https://github.com/chrisdarvelo/ully.web) |
 | Contact | [support@ullyapp.com](mailto:support@ullyapp.com) |
