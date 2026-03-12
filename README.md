@@ -9,7 +9,7 @@
   ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝
 ```
 
-**building at the edge of technology**
+**Brewing with Ai at the edge of technology**
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactnative.dev/)
