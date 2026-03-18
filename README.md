@@ -22,14 +22,15 @@
 
 ---
 
-## what i'm building
+## What i'm building
 
 ### [Ully AI](https://github.com/chrisdarvelo/Ully.app) — mobile app
-> AI coffee companion for baristas and enthusiasts.
+> AI coffee copilot for baristas and enthusiasts.
+Know your machine
+like a pilot knows his aircraft.
+Ully AI is a tool for your craft, filling the gap between operating a machine and understanding it. Shot by shot, shift after shift. Built with Expo + React Native + Firebase.
 
-Dial-in your espresso, troubleshoot equipment, build your recipe library, and get weather-aware drink recommendations — powered by Claude Sonnet. Built with Expo + React Native + Firebase.
-
-`React Native` `Expo SDK 54` `TypeScript` `Firebase` `Claude Sonnet` `AsyncStorage` `React Query`
+`React Native` `Expo SDK 54` `TypeScript` `Firebase` `AsyncStorage` `React Query`
 
 ---
 
