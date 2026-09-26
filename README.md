@@ -25,10 +25,16 @@
 ## What i'm building
 
 ### [Ully AI](https://github.com/chrisdarvelo/Ully.app) — mobile app
-> AI coffee copilot for baristas and enthusiasts.
-Know your machine
-like a pilot knows his aircraft.
-Ully AI is a tool for your craft, filling the gap between operating a machine and understanding it. Shot by shot, shift after shift. Built with Expo + React Native + Firebase.
+> Know your machine like a pilot.
+
+- Machine health and component lifecycle tracking
+- Fleet management: monitor every machine at every location
+- Service records: full maintenance history per machine
+- Downtime alerts: know before your team does
+- Shot volume and extraction data per machine
+- Ully flags issues before they become repairs
+
+Built with Expo + React Native + Firebase.
 
 `React Native` `Expo SDK 54` `TypeScript` `Firebase` `AsyncStorage` `React Query`
 
